@@ -1,6 +1,6 @@
 {
   "name": "@cadit-app/puerto-rico",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "1",
   "type": "module",
   "main": "dist/index.js",
@@ -26,9 +26,16 @@
     "type": "git",
     "url": "https://github.com/CADit-app/puerto-rico"
   },
+  "homepage": "https://github.com/CADit-app/puerto-rico#readme",
+  "bugs": {
+    "url": "https://github.com/CADit-app/puerto-rico/issues"
+  },
   "dependencies": {},
   "peerDependencies": {},
   "devDependencies": {
     "typescript": "^5.9.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

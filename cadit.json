@@ -2,7 +2,6 @@
   "entryPoint": "index.ts",
   "name": "Puerto Rico ",
   "description": "1",
-  "category": "cookie-cutters",
   "license": {
     "type": "apache-2.0"
   },
@@ -13,7 +12,7 @@
     }
   ],
   "metadata": {
-    "createdAt": "2026-06-21T02:26:52.112Z",
+    "createdAt": "2026-06-21T02:36:23.090Z",
     "createdWith": "cadit-web",
     "designId": "j911tDZ2QtTxf5p"
   }
