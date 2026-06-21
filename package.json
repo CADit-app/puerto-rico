@@ -1,6 +1,6 @@
 {
   "name": "@cadit-app/puerto-rico",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "1",
   "type": "module",
   "main": "dist/index.js",
